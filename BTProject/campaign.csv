@@ -1,0 +1,3 @@
+Campaign_Name,Campaign_slug,Description,Campaign_Name,Score,Category,Cashback_Percentage,Campaign_Start_Date,Campaign_End_Date,Promotion_Start_Date,Promotion_End_Date,Cashback_Destination,Amount_Per_BDT,User_Score,Min_Order_Quantity,Min_Order_Amount,Max_Order_Quantity,Max_Order_Amount,Edit_Before
+Check Scheduled,check-scheduled-bdfb83,No Description,Automation Cyclone,12,Coffee Cyclone,20,6/29/2021 0:00,7/30/2021 23:00,6/28/2021 0:00,6/28/2021 23:00,Holding balance,1000,10,5,500,200,100000,12:00
+Automation Cyclone03,automation-cyclone03-b2c38e,,,,,,,,,,,,,10,200,300,300000,

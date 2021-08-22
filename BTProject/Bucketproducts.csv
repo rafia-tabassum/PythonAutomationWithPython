@@ -1,0 +1,3 @@
+In_stock,Seller_Price,Regular_Price,Bucket_stock,Bucket_Seller_Price,Bucket_Regular_Price,Discount_Value,Discount_Type
+121,2000,3000,100,3000,4000,10,Percentage
+,3000,4000,,4000,5000,100,Flat
